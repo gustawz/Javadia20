@@ -1,0 +1,4 @@
+br\edu\etec\exercicio2\teste\model\Pagamento.class
+br\edu\etec\exercicio2\teste\TestePagamento.class
+br\edu\etec\exercicio2\teste\model\StatusPagamento.class
+br\edu\etec\exercicio2\teste\model\PagamentoCartao.class

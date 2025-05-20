@@ -1,0 +1,5 @@
+br\edu\etec\exercicio4\teste\model\TipoNotificacao.class
+br\edu\etec\exercicio4\teste\TesteNotificacoes.class
+br\edu\etec\exercicio4\teste\model\Email.class
+br\edu\etec\exercicio4\teste\model\Notificacao.class
+br\edu\etec\exercicio4\teste\model\SMS.class
